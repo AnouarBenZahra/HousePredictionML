@@ -1,0 +1,11 @@
+C:\Users\anoua\Desktop\MLNET-HousingRegression-master\HouseRegression\HouseRegression\bin\Debug\netcoreapp2.2\housing.csv
+C:\Users\anoua\Desktop\MLNET-HousingRegression-master\HouseRegression\HouseRegression\bin\Debug\netcoreapp2.2\HouseRegression.deps.json
+C:\Users\anoua\Desktop\MLNET-HousingRegression-master\HouseRegression\HouseRegression\bin\Debug\netcoreapp2.2\HouseRegression.runtimeconfig.json
+C:\Users\anoua\Desktop\MLNET-HousingRegression-master\HouseRegression\HouseRegression\bin\Debug\netcoreapp2.2\HouseRegression.runtimeconfig.dev.json
+C:\Users\anoua\Desktop\MLNET-HousingRegression-master\HouseRegression\HouseRegression\bin\Debug\netcoreapp2.2\HouseRegression.dll
+C:\Users\anoua\Desktop\MLNET-HousingRegression-master\HouseRegression\HouseRegression\bin\Debug\netcoreapp2.2\HouseRegression.pdb
+C:\Users\anoua\Desktop\MLNET-HousingRegression-master\HouseRegression\HouseRegression\obj\Debug\netcoreapp2.2\HouseRegression.csprojAssemblyReference.cache
+C:\Users\anoua\Desktop\MLNET-HousingRegression-master\HouseRegression\HouseRegression\obj\Debug\netcoreapp2.2\HouseRegression.AssemblyInfoInputs.cache
+C:\Users\anoua\Desktop\MLNET-HousingRegression-master\HouseRegression\HouseRegression\obj\Debug\netcoreapp2.2\HouseRegression.AssemblyInfo.cs
+C:\Users\anoua\Desktop\MLNET-HousingRegression-master\HouseRegression\HouseRegression\obj\Debug\netcoreapp2.2\HouseRegression.dll
+C:\Users\anoua\Desktop\MLNET-HousingRegression-master\HouseRegression\HouseRegression\obj\Debug\netcoreapp2.2\HouseRegression.pdb
